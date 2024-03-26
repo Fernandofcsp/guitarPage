@@ -16,7 +16,7 @@ Plataforma de cursos de guitarra + e-comerce
 
 ### Instalación 🔧
 Para ejecutar de forma local utilice Uniserver, Xampp o similar 
-Importar la BD en Mysql
+Importar la BD [sembd-db_2024-03-12.sql] en Mysql
 
 ## Despliegue 📦
 https://projectingsoftvicguitar.free.nf/
