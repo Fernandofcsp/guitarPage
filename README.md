@@ -1,6 +1,7 @@
 
 # Título del Proyecto
 Plataforma de cursos de guitarra + e-comerce
+![image](https://github.com/Fernandofcsp/guitarPage/assets/73980852/3b3df2ae-0f90-4fc5-8db1-00259a1f2f6f)
 
 ## Comenzando 🚀
 *Desarrolle un sitio web interactivo sobre publicaciones de aprendizaje, una plataforma de comercio electrónico y administración de perfiles de usuario, complementados con un backend intuitivo para actualizaciones y administración de contenido sin esfuerzo.
