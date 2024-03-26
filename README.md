@@ -28,8 +28,11 @@ https://projectingsoftvicguitar.free.nf/
 
 ## Construido con 🛠️
 *PHP
+
 *HTML
+
 *BOOTSTRAP
+
 *MYSQL
 
 ## Versionado 📌
