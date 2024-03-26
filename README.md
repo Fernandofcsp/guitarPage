@@ -1,5 +1,5 @@
 
-# Título del Proyecto
+# Donde me lleva la guitarra
 Plataforma de cursos de guitarra + e-comerce
 ![image](https://github.com/Fernandofcsp/guitarPage/assets/73980852/3b3df2ae-0f90-4fc5-8db1-00259a1f2f6f)
 
